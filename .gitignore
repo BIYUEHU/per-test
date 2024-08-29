@@ -1,0 +1,8 @@
+*.exe
+*.o
+*.hi
+__pycache__
+*.pdb
+*.obj
+bin
+obj
